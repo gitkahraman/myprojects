@@ -5,14 +5,15 @@
          "type":"Feature",
          "properties":{
             "stage":"LEAD",
-            "month":"mapMonth(""{\"LEAD\": \"3\",\"AO\": \"\",\"FAO\": \"\",\"BOUGHT\": \"\",\"SOLD\": \"\"}",
+            "month":2,
             "LEAD"")",
-            "year":"mapYear(""{\"LEAD\": \"2021\",\"AO\": \"\",\"FAO\": \"\",\"BOUGHT\": \"\",\"SOLD\": \"\"}",
+            "year":2021,
             "LEAD"")"
          },
          "geometry":{
             "coordinates":[
-               
+               2.1487739,
+               41.3984814
             ],
             "type":"Point"
          }
@@ -28,8 +29,6 @@
          },
          "geometry":{
             "coordinates":[
-               2.1487739,
-               41.3984814
             ],
             "type":"Point"
          }
